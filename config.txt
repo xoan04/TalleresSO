@@ -1,0 +1,4 @@
+date
+df -h
+free -m
+mpstat -u -P ALL
